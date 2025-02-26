@@ -12,3 +12,5 @@ pip install spicecode
 spice analyze mycode.js
 ```
 
+### [Click Here for Full Documentation](https://github.com/SpiceCodeCLI/spicecode)
+
